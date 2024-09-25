@@ -1,0 +1,22 @@
+# Hi there :seenoevilt :
+*
+!.gitignore
+!README.md
+!linea/
+!linea/genesis.json
+!linea/docker-compose.yml
+!indexer/
+!indexer/tsconfig.json
+!indexer/package.json
+!indexer/src/
+!indexer/src/hello.ts
+!indexer/src/utils.ts
+#indexer/src/index.ts
+#indexer/src/trace.ts
+
+!db/
+!db/user_files/
+!db/user_files/.gitkeep
+
+!sql/
+!sql/*.sql

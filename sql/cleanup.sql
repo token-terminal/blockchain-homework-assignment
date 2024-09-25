@@ -1,0 +1,6 @@
+DROP TABLE IF EXISTS raw.blocks;
+DROP TABLE IF EXISTS raw.transactions;
+DROP TABLE IF EXISTS raw.receipts;
+DROP TABLE IF EXISTS raw.traces;
+DROP DATABASE IF EXISTS raw;
+
