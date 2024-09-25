@@ -1,3 +1,4 @@
+CREATE DATABASE IF NOT EXISTS raw;
 CREATE TABLE raw.receipts
 (
   `blockNumber` Int64,
